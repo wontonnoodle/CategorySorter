@@ -1,6 +1,6 @@
 # Category Organizer
 
-A standalone web application for managing hierarchical categories and subcategories with drag-and-drop reordering, inline editing, and persistent storage.
+A standalone web application for managing hierarchical categories and subcategories with drag-and-drop reordering, inline editing, and persistent storage. 
 
 ## Features
 
